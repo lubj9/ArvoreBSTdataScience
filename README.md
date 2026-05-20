@@ -86,10 +86,10 @@
 
 # Autores:
 
-# Lucas Zeferino Baracat
+# Lucas Zeferino Baracat / 10396267
 
-# Henrique Guimaraes
+# Henrique Guimaraes / 10427920
 
-# Marco Aurelio
+# Marco Aurelio / 10426798
 
 
